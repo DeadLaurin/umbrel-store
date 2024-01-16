@@ -1,27 +1,24 @@
 manifestVersion: 1
 id: stable-linkding
 name: Linkding
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+tagline: Bookmark manager
+icon: https://cdn.lewd.host/FDrFJGsu.png
 category: Development
-version: "1.0.0"
+version: "1.23.1"
 port: 9090
 description: >-
-  Add your app's description here.
+  Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: sissbruecker
+website: 
+submitter: Laurin
+submission: https://github.com/sissbruecker/linkding
+repo: https://github.com/sissbruecker/linkding
+support: 
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/9ekcFzs.png
+  - https://i.imgur.com/lhp1muk.png
+  - https://i.imgur.com/9ekcFzs.png
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []

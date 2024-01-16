@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: stable-dockge
+name: Dockge
+tagline: Bookmark manager
+icon: https://github.com/louislam/dockge/raw/master/frontend/public/icon.svg
+category: Development
+version: "1.4.0"
+port: 5001
+description: >-
+  A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+
+developer: louislam
+website: 
+submitter: Laurin
+submission: https://github.com/louislam/dockge
+repo: https://github.com/louislam/dockge
+support: 
+gallery:
+  - https://i.imgur.com/2eBlLHy.png
+  - https://i.imgur.com/5kKZY4l.png
+  - https://i.imgur.com/21rtSNy.png
+  - https://i.imgur.com/Kf4tFvo.png
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

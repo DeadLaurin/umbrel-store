@@ -15,7 +15,7 @@ services:
   app_proxy:
     environment:
       # The format here is: <app-id>_<docker-service-name>_1
-      APP_HOST: stable-fancy
+      APP_HOST: stable-linkding_1
       APP_PORT: 9090
       PROXY_AUTH_ADD: "false"
     

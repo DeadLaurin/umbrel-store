@@ -2,7 +2,7 @@ manifestVersion: 1
 id: stable-dockge
 name: Dockge
 tagline: Docker Compose Manager
-icon: https://github.com/louislam/dockge/raw/master/frontend/public/icon.svg
+icon: https://i.imgur.com/rvyxCXI.png
 category: Development
 version: "1.4.0"
 port: 5000

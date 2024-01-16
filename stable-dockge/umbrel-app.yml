@@ -1,11 +1,11 @@
 manifestVersion: 1
 id: stable-dockge
 name: Dockge
-tagline: Bookmark manager
+tagline: Docker Compose Manager
 icon: https://github.com/louislam/dockge/raw/master/frontend/public/icon.svg
 category: Development
 version: "1.4.0"
-port: 5001
+port: 5000
 description: >-
   A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 
